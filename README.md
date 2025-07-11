@@ -11,8 +11,8 @@ Repozitorij vsebuje vaje za predmet **Varnost elektronskega poslovanja** (MAG, I
 | `lab03` | Socialni inženiring in obrambe pred njim |
 | `lab04` | Upravljanje osebnih identitet |
 | `lab05` | Varnostna politika |
-| `lab06` | Testiranje SSH varnosti z Nmap in Hydra |
-| `lab07` | Varnost v oblakih in uporaba večfaktorske avtentikacije |
+| `lab06` | Uporaba varne komunikacije |
+| `lab07` | Načrtovanje in razvoj varnih sistemov elektronskega poslovanja |
 | `lab08` | Varna komunikacija (šifrirana e-pošta, sporočila) |
 | `lab09` | Preizkus varnosti spletnih aplikacij (osnove) |
 | `lab10` | Incident response — ukrepanje ob napadu |
