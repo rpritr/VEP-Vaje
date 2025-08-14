@@ -7,10 +7,11 @@ Repozitorij vsebuje vaje za predmet **Varnost elektronskega poslovanja** (MAG, I
 | Mapa   | Vsebina vaje |
 |--------|---------------|
 | `lab01` | Uvod v varnost elektronskega poslovanja |
-| `lab02` | Varnostne grožnje in ranljivosti v e-poslovanju |
+| `lab02` | Varnost posameznikov v kibernetskem prostoru |
 | `lab03` | Socialni inženiring in obrambe pred njim |
 | `lab04` | Upravljanje osebnih identitet |
-| `lab05` | Varnostna politika |
-| `lab06` | Uporaba varne komunikacije |
-| `lab07` | Načrtovanje in razvoj varnih sistemov elektronskega poslovanja |
-| `lab08` | Zasebnost in varovanje osebnih podatkov v digitalnem svetu |
+| `lab05` | Varnostne grožnje in ranljivosti v e-poslovanju |
+| `lab06` | Uporaba orodij za varno komunikacijo |
+| `lab07` | Varnostna politika |
+| `lab08` | Načrtovanje in razvoj varnih sistemov elektronskega poslovanja |
+| `lab09` | Zasebnost in varovanje osebnih podatkov v digitalnem svetu |

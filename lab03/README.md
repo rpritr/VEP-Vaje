@@ -1,6 +1,4 @@
-# Socialni inženiring in obrambe pred njim
-
-📅 **Trajanje: 2 uri**
+# Vaja 3: Socialni inženiring in obrambe pred njim
 
 Socialni inženiring izkorišča človeško psihologijo, ne tehnične ranljivosti.
 Napadalci ciljajo na čustva, navade in nepozornost posameznikov, da pridobijo dostop do informacij ali sistemov brez uporabe zapletenih tehnik vdiranja.
@@ -78,7 +76,6 @@ USB ključek z napisom »Zaupno« ali »Plačilni podatki«, puščen na parkiri
 ✅ Če se zgodba zdi sumljiva ali preveč nujna — preverimo pri uradnem viru.  
 
 ## 2️⃣ Aktivnost: Analiza phising primerov
-
 
 ### E-poštno sporočilo za prevzem paketa
 

@@ -1,4 +1,4 @@
-# Uvod v varnost elektronskega poslovanja
+# Vaja 1: Uvod v varnost elektronskega poslovanja
 
 📅 **Trajanje: 2 uri**
 

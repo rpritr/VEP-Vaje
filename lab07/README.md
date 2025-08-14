@@ -1,55 +1,56 @@
-# Načrtovanje in razvoj varnih sistemov elektronskega poslovanja
+# Vaja 7: Varnostna politika
 
 📅 **Trajanje: 4 ure**
 
-V tej vaji boste spoznali, kako že v fazi načrtovanja zagotoviti varnost sistema za elektronsko poslovanje. Prepoznali boste tipične napake arhitektur, analizirali primer obstoječega sistema in pripravili svoj načrt varne arhitekture.
+V tej vaji boste spoznali pomen varnostne politike v podjetju ter v skupinah pripravili osnovno različico politike za podjetje. Poleg tega boste analizirali primer varnostne politike večje organizacije in razpravljali o tem, kako jo je mogoče izboljšati in kako jo predstaviti zaposlenim.
 
 ---
 
-# 🧪 Načrtovanje in razvoj varnih sistemov
+# 🧪 Varnostna politika
 
-Mnogi napadi na spletne trgovine in druge sisteme e-poslovanja so posledica slabe zasnove in pomanjkanja varnostnih mehanizmov že v fazi načrtovanja.  
-»Security by design« pomeni načrtovati sistem tako, da je varen že od začetka, ne pa da se kasneje varnost dodaja kot popravek.
+Varnostna politika je dokument, ki opisuje načela, pravila in postopke, s katerimi organizacija varuje informacije in sisteme pred grožnjami. Jasno določa odgovornosti, postopke ob incidentih in pričakovana vedenja zaposlenih.
 
 ---
 
 ## 1️⃣ Uvod: Cilji
 
-✅ razumeti pomen varnosti v fazi načrtovanja  
-✅ analizirati tipične napake v arhitekturah  
-✅ pripraviti načrt za varen sistem elektronskega poslovanja  
+✅ razumeti pomen varnostne politike v podjetju  
+✅ analizirati obstoječo varnostno politiko večje organizacije  
+✅ znati oblikovati osnovne politike in jih prilagoditi poslovnim potrebam  
+✅ znati komunicirati varnostno politiko zaposlenim  
 
 ---
 
-## 2️⃣ Aktivnost: Analiza arhitekture
+## 2️⃣ Aktivnost: Analiza obstoječe politike
 
-Predavatelj bo posredoval shemo arhitekture obstoječega (izmišljenega) sistema spletne trgovine.  
-Primer bo vseboval:  
-- spletni strežnik  
-- podatkovno bazo  
-- administrativni portal  
-- uporabnike  
-- zunanji ponudnik plačil
+Predavatelj bo posredoval javno dostopen primer varnostne politike večje organizacije (npr. univerze, banke ali tehnološkega podjetja).  
+Primer:  
+🌐 [Microsoft Privacy & Security Policy](https://www.microsoft.com/en-us/trust-center)  
+ali  
+🌐 varnostna politika Univerze v Ljubljani.
 
-### Naloga
+### Navodila
 
-🔷 1️⃣ V skupinah analizirajte arhitekturo in odgovorite:  
-- Katera področja so ranljiva?  
-- Ali so gesla varno shranjena?  
-- Kako je urejen dostop za administratorje?  
-- Ali je zagotovljena zaupnost, celovitost, razpoložljivost?
-
-🔷 2️⃣ Označite ključne šibkosti (npr. podatkovna baza neposredno dostopna iz interneta, gesla v čistopisu …)
+🔷 1️⃣ V skupinah preberite in analizirajte dokument.  
+🔷 2️⃣ Odgovorite na naslednja vprašanja:  
+- Katere glavne dele vsebuje (cilji, področja, postopki)?  
+- Kako so opredeljene odgovornosti zaposlenih?  
+- Ali pokriva vse ključne grožnje?  
+- Je napisana jasno in razumljivo za zaposlene?  
+- Kaj bi izboljšali?
 
 ---
 
-## 3️⃣ Aktivnost: Načrt varnega sistema
+## 3️⃣ Aktivnost: Oblikovanje lastne politike
 
-Pripravite osnovni načrt arhitekture varnega sistema:  
-✅ kako zaščititi podatke uporabnikov (šifriranje, dostop)  
-✅ kako zaščititi komunikacijo (HTTPS, TLS)  
-✅ kako ločiti cone zaupanja (DMZ, notranje omrežje)  
-✅ kako obvladovati dostop (vloge, najmanjša potrebna pravica)
+V skupinah pripravite osnutek varnostne politike za srednje veliko podjetje (npr. spletna trgovina s 50 zaposlenimi).  
+Dokument naj vsebuje:  
+✅ Namen in cilje politike  
+✅ Področje uporabe  
+✅ Odgovornosti zaposlenih in vodstva  
+✅ Postopke ob incidentih  
+✅ Pravila za uporabo sistemov in gesel  
+✅ Kako se spremlja skladnost
 
 ---
 
@@ -57,12 +58,12 @@ Pripravite osnovni načrt arhitekture varnega sistema:
 
 ### 📝 Navodila za poročilo
 
-- Opišite glavne pomanjkljivosti obstoječe arhitekture.  
-- Pripravite osnovno skico varne arhitekture s pojasnili.  
-- Katere varnostne standarde bi upoštevali (npr. GDPR, PCI-DSS)?  
-- Kako bi zagotovili skladnost in preverjanje varnosti skozi čas?
+- Povzemite analizo obstoječe politike: njene prednosti in slabosti.  
+- Predstavite ključne dele vaše varnostne politike.  
+- Kako bi jo komunicirali zaposlenim, da bi jo razumeli in upoštevali?  
+- Kako bi spremljali, ali se politika izvaja?
 
 ---
 
 📑 Poročilo oddajte v pisni obliki (priporočeno: 2–3 strani).  
-📣 Pomembno: dokument naj bo razumljiv tudi ne-tehničnim deležnikom (vodstvo podjetja).
+📣 Pomembno: dokument naj bo napisan v jeziku, ki ga razumejo tudi ne-tehnični zaposleni!

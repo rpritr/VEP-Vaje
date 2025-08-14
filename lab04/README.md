@@ -1,6 +1,4 @@
-# Upravljanje osebnih identitet
-
-📅 **Trajanje: 2 uri**
+# Vaja 4: Upravljanje osebnih identitet
 
 V digitalnem svetu so osebne identitete eden izmed ključnih elementov, ki omogočajo našo prisotnost in delovanje v kibernetskem prostoru. Gesla in prijavni podatki so pogosto edina ovira med našimi podatki in morebitnim napadalcem, zato je pravilno ravnanje z njimi ključno za varnost posameznika. 
 
@@ -15,7 +13,7 @@ Namen te vaje je, da se študentje naučimo osnovnih dobrih praks pri upravljanj
 
 ## 1️⃣ Uvod: Upravljanje osebnih identitet
 
-Cilj je, da se kot uporabniki naučimo kako:
+Cilj je, da se kot uporabniki naučimo kako:  
 ✅ ustvariti varna gesla,  
 ✅ preveriti njihovo kompleksnost in odpornost na napade,  
 ✅ nastaviti dvofaktorsko avtentikacijo (MFA) za boljšo zaščito računov.

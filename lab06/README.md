@@ -1,75 +1,76 @@
-# Uporaba varne komunikacije
+# Vaja 6: Uporaba orodij za varno komunikacijo
 
-📅 **Trajanje: 2 uri**
+📅 **Trajanje: 3 ure**
 
-
-Vsakodnevno komuniciramo prek elektronske pošte in sporočilnih aplikacij, vendar večina teh komunikacij ni zaščitena pred prisluškovanjem. Šifriranje sporočil omogoča, da vsebino vidijo samo pošiljatelj in prejemnik, s čimer varujemo zasebnost in zmanjšamo možnost kraje osebnih podatkov.
-
-V tej vaji bomo praktično uporabili šifrirano e-pošto (PGP) in aplikacijo Signal za šifrirano sporočanje.
-
-
-# 🧪 Uporaba varne komunikacije
-
-Šifriranje je postopek pretvorbe besedila v neberljivo obliko (ciphertext), ki jo lahko dešifrira le pooblaščeni prejemnik.
-
-
-## 1️⃣ Uvod: Varno komuniciranje
-
-Cilj vaje je:  
-✅ razumeti pomen šifriranja komunikacije. 
-✅ ustvariti in uporabiti PGP ključ za šifrirano e-pošto. 
-✅ uporabiti aplikacijo Signal za šifrirano sporočanje. 
-✅ spoznati osnovne pojme: šifriranje, javni in zasebni ključ, digitalni podpis. 
-
-### Šifriranje in varnost
-
-#### Simetrično šifriranje
-Uporablja en sam ključ za šifriranje in dešifriranje. Primer: AES.
-
-#### Asimetrično šifriranje
-Uporablja par ključev: javni in zasebni ključ.  
-- Javni ključ deliš z drugimi.
-- Zasebni ključ hraniš zase.  
-Če ti nekdo pošlje šifrirano sporočilo z uporabo tvojega **javnega ključa**, ga lahko dešifriraš le ti z **zasebnim ključem**.  
-PGP (Pretty Good Privacy) temelji na tem principu.
-
-#### Digitalni podpis
-S svojim zasebnim ključem podpišeš sporočilo. Prejemnik z javnim ključem preveri, da si ga res ti poslal.
-
-
-## 2️⃣ Aktivnost: Šifrirana komunikacija v kibernetskem prostoru
-### 🔷 Del A: Šifrirana e-pošta
-
-✅ možnost 1: Thunderbird
-1. Namesti [Thunderbird](https://www.thunderbird.net/) in nastavi svoj e-poštni račun.
-2. V meniju pojdi na **Nastavitve šifriranja/OpenPGP** in ustvari nov ključni par.
-3. Izvozi svoj javni ključ in ga pošlji kolegu.
-4. Uvozi kolegov javni ključ.
-5. Napiši in pošlji šifrirano in podpisano sporočilo kolegu.
-
-✅ možnost 2: ProtonMail
-1. Ustvari brezplačen račun na [ProtonMail](https://protonmail.com).
-2. Prijavi se in omogoči šifriranje.
-3. Pošlji šifrirano sporočilo kolegu.
+V tej vaji boste preverili, kako poteka običajna (nezaščitena) elektronska komunikacija ter zakaj je pomembno, da uporabljamo šifriranje za zaščito občutljivih informacij.
 
 ---
 
-### 🔷 Del B: Signal
+## 🧪 Osnovno o šifriranju
 
-1. Namesti Signal iz Google Play/Apple App Store.
-2. Registriraj svojo številko.
-3. Povabi kolega v pogovor.
-4. Pošljita si nekaj sporočil.
-5. Odprite **Varnostne podatke (safety number)** in preverita, ali sta pravilno usklajena.
+Komunikacije, kot so e-pošta in sporočila prek spleta, pogosto potekajo brez zaščite. To pomeni, da lahko tretje osebe (npr. ponudniki, hekerji) prestrežejo vsebino.
+
+- **Šifriranje** omogoča, da sporočilo prebere le pravi prejemnik.
+- **Digitalni podpisi** omogočajo preverjanje pristnosti pošiljatelja.
+- **End-to-end šifriranje (E2EE)** ščiti vsebino pred vsemi – tudi pred ponudnikom storitve.
 
 ---
 
-### 📝 Analiza in poročilo
+## 1️⃣ Cilji vaje
 
-- Kakšne so prednosti uporabe šifrirane komunikacije?
+✅ Spoznati pomen varne komunikacije in šifriranja.  
+✅ Prepoznati ranljivosti običajnega prenosa sporočil.  
+✅ Primerjati zaščiteno in nezaščiteno komunikacijo.  
+✅ Znati izbrati varno aplikacijo za vsakdanjo rabo.
 
-## 3️⃣ Refleksija in analiza
+---
 
-- Kako bi razložili razliko med šifriranim in nešifriranim sporočilom? Zakaj je šifriranje pomembno?
-- Kako bi svojim prijateljem ali sodelavcem priporočili, da zaščitijo svojo komunikacijo? Bi jim svetovali uporabo PGP, Signala, ali česa drugega? Zakaj?
-- Ali menite, da bi morale biti šifrirane oblike komunikacije bolj razširjene tudi v vsakdanjem življenju? Zakaj da/ne?
+## 2️⃣ Scenarij
+
+Predstavljajte si, da ste zaposleni v podjetju, ki pošilja občutljive informacije stranki. Analizirali boste običajen prenos sporočila in nato isto opravili s šifrirano komunikacijo.
+
+---
+
+## 3️⃣ Aktivnost: Pregled varnih orodij
+
+### Korak 1: Preveri svojo trenutno komunikacijo
+
+- Ali tvoja e-pošta uporablja šifriranje (TLS, PGP)?
+- Ali tvoje aplikacije (WhatsApp, Messenger, Signal, Telegram) omogočajo E2EE?
+- Uporabi spletna orodja za preverjanje (npr. [Email Security Checker](https://internet.nl)).
+
+### Korak 2: Preizkus varne aplikacije (brez terminala)
+
+1. Namesti ali uporabi aplikacijo [Signal](https://signal.org/).  
+2. Pošlji šifrirano sporočilo osebi v skupini.  
+3. Preveri »varnostno številko« oz. fingerprint.  
+4. Pošlji datoteko ali dokument.
+
+### Korak 3: Pošiljanje digitalno podpisanega in šifriranega e-poštnega sporočila
+
+1. Uporabi [ProtonMail](https://proton.me/) (brezplačna registracija).
+2. Pošlji šifrirano sporočilo sošolcu ali sebi.  
+3. Preveri obvestila o podpisu in šifriranju.
+
+---
+
+## 4️⃣ Refleksija in poročilo
+
+### 📝 Poročilo naj vsebuje:
+
+- Katero aplikacijo za varno sporočanje si testiral? Kako poteka preverjanje pristnosti?
+- Katere razlike si opazil med šifriranim in običajnim e-poštnim sporočilom?
+- Kdaj bi uporabil PGP (npr. e-pošta), kdaj E2EE (npr. Signal)?
+- Kaj so prednosti in slabosti uporabe varne komunikacije za običajne uporabnike?
+- Predlagaj 3 ukrepe, ki jih lahko uporabnik takoj uvede za boljšo varnost komunikacije.
+
+📑 Priporočeno: 2–3 strani, s posnetki zaslona.
+
+---
+
+## Reference
+
+1. https://signal.org/  
+2. https://proton.me/  
+3. https://internet.nl  
+4. https://www.eff.org/deeplinks/2022/02/why-end-end-encryption-critical-and-cant-be-bypassed
