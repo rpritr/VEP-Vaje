@@ -1,6 +1,6 @@
 # 🛡️ Varnost elektronskega poslovanja — Vaje (MAG, ISD, 30 ur)
 
-Repozitorij vsebuje vaje za predmet **Varnost elektronskega poslovanja** (MAG, ISD), ki zajemajo praktične naloge za razvijanje osnovnih veščin zaščite in zavedanja o varnosti posameznika v kibernetskem prostoru. Vsaka vaja ima svojo mapo z README.md datoteko, ki vsebuje uvod, cilje, opis aktivnosti, analizo in vprašanja za refleksijo.
+Repozitorij vsebuje vaje za predmet **Varnost elektronskega poslovanja** (MAG, ISD), ki zajemajo praktične naloge za razvijanje osnovnih veščin zaščite in zavedanja o varnosti pri elektronskem poslovanju. Vsaka vaja ima svojo mapo z README.md datoteko, ki vsebuje uvod, cilje, opis, analizo ter vprašanja za refleksijo.
 
 ## 📖 Seznam vaj
 
@@ -18,3 +18,13 @@ Repozitorij vsebuje vaje za predmet **Varnost elektronskega poslovanja** (MAG, I
 | `lab10` | Varnost podatkov v oblaku |
 | `lab11` | Uporaba elektronskega podpisa |
 | `lab12` | Samoocena informacijske varnosti |
+
+
+## Opombe
+
+**Uporaba AI:** Pri razvoju vsebine in pripravi dokumentacije je bilo uporabljeno orodje ChatGPT (OpenAI), ki je služilo kot pomoč pri generiranju idej, optimizaciji kode in oblikovanju besedil.  
+Vse končne rešitve so bile pregledane, preverjene in po potrebi prilagojene s strani avtorja projekta.
+
+## Reference
+
+OpenAI, (2025), *ChatGPT* (Aug 2025) [Large language model], https://chat.openai.com/
