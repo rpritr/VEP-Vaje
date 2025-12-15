@@ -3,7 +3,7 @@
 ## 🎯 Namen naloge
 
 V tej projektni nalogi boste v vlogi **strokovnjaka za varnost elektronskega poslovanja** pripravili celovito poročilo varnostnega pregleda organizacije.  
-Lahko izberete **dejanski sistem** (npr. domače omrežje, šolski strežnik, simulirano okolje) ali **sestavite fiktivni primer**, ki vsebuje vse ključne elemente varnostnega pregleda.
+Lahko izberete **dejanski sistem** (npr. domače omrežje, šolski strežnik, simulirano okolje) ali **sestavite fiktivni primer**, ki vsebuje vse ključne elemente varnostnega pregleda. V primeru, da nimate organizacije in ustreznih dovoljenj lahko uporabite testno organizacijo na naslovu: https://hackycorp.com/
 
 ### Cilji naloge:
 - Identifikacija sredstev, groženj in ranljivosti,
