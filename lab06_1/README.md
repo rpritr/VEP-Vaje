@@ -1,7 +1,7 @@
 # Vaja: Enkripcija datotek in varna izmenjava z GPG Suite
 
 ## Namen vaje
-Namen vaje je, da spoznamo:
+Namen vaje je, da spoznamo:  
 ✅  osnovne koncepte asimetrične kriptografije,  
 ✅  uporabo GPG (OpenPGP) za zaščito podatkov,  
 ✅  generiranje kriptografskih ključev,  
