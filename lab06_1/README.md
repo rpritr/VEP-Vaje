@@ -2,11 +2,11 @@
 
 ## Namen vaje
 Namen vaje je, da spoznamo:
-✅  osnovne koncepte asimetrične kriptografije,
-✅  uporabo GPG (OpenPGP) za zaščito podatkov,
-✅  generiranje kriptografskih ključev,
-✅  enkripcijo in dekripcijo datotek,
-✅  varno izmenjavo podatkov med pošiljateljem in prejemnikom.
+✅  osnovne koncepte asimetrične kriptografije,  
+✅  uporabo GPG (OpenPGP) za zaščito podatkov,  
+✅  generiranje kriptografskih ključev,  
+✅  enkripcijo in dekripcijo datotek,  
+✅  varno izmenjavo podatkov med pošiljateljem in prejemnikom.  
 
 Vaja simulira realen scenarij varnega pošiljanja občutljive datoteke po elektronski pošti.
 
