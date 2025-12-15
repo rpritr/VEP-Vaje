@@ -1,7 +1,5 @@
 # Vaja 7: Varnostna politika
 
-📅 **Trajanje: 4 ure**
-
 V tej vaji boste spoznali pomen varnostne politike v podjetju ter v skupinah pripravili osnovno različico politike za podjetje. Poleg tega boste analizirali primer varnostne politike večje organizacije in razpravljali o tem, kako jo je mogoče izboljšati in kako jo predstaviti zaposlenim.
 
 ---
@@ -25,13 +23,13 @@ Varnostna politika je dokument, ki opisuje načela, pravila in postopke, s kater
 
 Predavatelj bo posredoval javno dostopen primer varnostne politike večje organizacije (npr. univerze, banke ali tehnološkega podjetja).  
 Primer:  
-🌐 [Microsoft Privacy & Security Policy](https://www.microsoft.com/en-us/trust-center)  
+🌐 Microsoft
 ali  
 🌐 varnostna politika Univerze v Ljubljani.
 
 ### Navodila
 
-🔷 1️⃣ V skupinah preberite in analizirajte dokument.  
+🔷 1️⃣ Preberite in analizirajte dokument.  
 🔷 2️⃣ Odgovorite na naslednja vprašanja:  
 - Katere glavne dele vsebuje (cilji, področja, postopki)?  
 - Kako so opredeljene odgovornosti zaposlenih?  
@@ -43,7 +41,7 @@ ali
 
 ## 3️⃣ Aktivnost: Oblikovanje lastne politike
 
-V skupinah pripravite osnutek varnostne politike za srednje veliko podjetje (npr. spletna trgovina s 50 zaposlenimi).  
+Pripravite osnutek varnostne politike za srednje veliko podjetje (npr. spletna trgovina s 50 zaposlenimi).  
 Dokument naj vsebuje:  
 ✅ Namen in cilje politike  
 ✅ Področje uporabe  

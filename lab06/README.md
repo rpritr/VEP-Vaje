@@ -1,7 +1,5 @@
 # Vaja 6: Uporaba orodij za varno komunikacijo
 
-📅 **Trajanje: 3 ure**
-
 V tej vaji boste preverili, kako poteka običajna (nezaščitena) elektronska komunikacija ter zakaj je pomembno, da uporabljamo šifriranje za zaščito občutljivih informacij.
 
 ---
@@ -35,9 +33,9 @@ Predstavljajte si, da ste zaposleni v podjetju, ki pošilja občutljive informac
 
 ### Korak 1: Preveri svojo trenutno komunikacijo
 
-- Ali tvoja e-pošta uporablja šifriranje (TLS, PGP)?
-- Ali tvoje aplikacije (WhatsApp, Messenger, Signal, Telegram) omogočajo E2EE?
-- Uporabi spletna orodja za preverjanje (npr. [Email Security Checker](https://internet.nl)).
+- Ali vaša e-pošta uporablja šifriranje (TLS, PGP)?
+- Ali vaše aplikacije (WhatsApp, Messenger, Signal, Telegram) omogočajo E2EE?
+- Uporabite lahko tudi spletna orodja za preverjanje (npr. [Email Security Checker](https://internet.nl)).
 
 ### Korak 2: Preizkus varne aplikacije (brez terminala)
 
