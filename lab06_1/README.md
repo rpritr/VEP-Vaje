@@ -14,7 +14,9 @@ Vaja simulira realen scenarij varnega pošiljanja občutljive datoteke po elektr
 
 ## Orodja in zahteve
 - Nameščeno orodje: **GPG Suite**
-  - https://gpgtools.org
+  - https://gpgtools.org 
+  - https://www.gpg4win.org/
+
 - Elektronska pošta (simulacija pošiljanja datoteke)
 - Tekstovni urejevalnik (npr. TextEdit, VS Code)
 
